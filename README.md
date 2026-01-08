@@ -12,7 +12,8 @@ Cyber Engineering professional with a strong technical foundation, now focused o
 
 
 | Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|                                                                   
+|-----------------------------------------------|----------------------------|
+|SOC Automation                                 |
 | Vulnerability Management Lab                  | <a href="https://github.com/GaryCollins-Sec/Vulnerability-Management-Lab"> Vulnerability Management Lab </a> |
 | Cloud Security Lab |  <a href= "https://github.com/GaryCollins-Sec/Cloud-Security-Lab">  Cloud Security Lab </a>                     |
 |AI Threat Modeling – Agricultural System (PEAT) | <a href="https://github.com/GaryCollins-Sec/AI-Threat-Modeling-Agricultural-System-PEAT-/tree/main" >AI Threat Modeling – Agricultural System (PEAT) </a>
