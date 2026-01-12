@@ -13,12 +13,13 @@ Cyber Engineering professional with a strong technical foundation, now focused o
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-|ML Detection Engineering Lab  | <a href="https://github.com/GaryCollins-Sec/ML-Detection-Engineering-Lab">ML Detection Engineering Lab<a> |
+|SOC Automation  | <a href="https://github.com/GaryCollins-Sec/SOC-Automation-Lab/tree/main">SOC Automation<a> |
 | Vulnerability Management Lab                  | <a href="https://github.com/GaryCollins-Sec/Vulnerability-Management-Lab"> Vulnerability Management Lab </a> |
 | Cloud Security Lab |  <a href= "https://github.com/GaryCollins-Sec/Cloud-Security-Lab">  Cloud Security Lab </a>                     |
-|AI Threat Modeling – Agricultural System (PEAT) | <a href="https://github.com/GaryCollins-Sec/AI-Threat-Modeling-Agricultural-System-PEAT-/tree/main" >AI Threat Modeling – Agricultural System (PEAT) </a>
-| Predictive Attack Surface Triage Framework |   <a href="https://github.com/GaryCollins-Sec/Predictive-Attack-Surface-Trage-Framework">Predictive Attack Surface Triage Framework</a>          |
-| Hybrid Malware Analysis: Dissecting Malicious Artifacts in Isolated Environments |  <a href="https://github.com/Garycyberknight1/Hybrid-Malware-Analysis" > Hybrid Malware Analysis: Dissecting Malicious Artifacts in Isolated Environments </a>
+|Network Traffic Analysis |                                                                                     |
+|Phishing Automation Analysis Lab |                                              |
+| Hybrid Malware Analysis: Dissecting Malicious Artifacts in Isolated Environments |  <a href="https://github.com/Garycyberknight1/Hybrid-Malware-Analysis" > Hybrid Malware Analysis: Dissecting Malicious Artifacts in Isolated Environments </a> |                              |
+| Attack-Surface Lab |                                                         |
 
 
 
@@ -145,7 +146,7 @@ Cyber Engineering professional with a strong technical foundation, now focused o
 </div>
 
 ## Projects
--  <a href="https://github.com/GaryCollins-Sec/ML-Detection-Engineering-Lab">ML Detection Engineering Lab<a>
+- <a href="https://github.com/GaryCollins-Sec/SOC-Automation-Lab/tree/main">SOC Automation<a>
 - <a href="https://github.com/GaryCollins-Sec/Vulnerability-Management-Lab"> Vulnerability Management Lab </a>
 - <a href= "https://github.com/GaryCollins-Sec/Cloud-Security-Lab">  Cloud Security Lab</a>
 - <a href="https://github.com/Garycyberknight1/AI-Threat-Modeling-Agricultural-System-PEAT-/tree/main" >AI Threat Modeling – Agricultural System (PEAT) </a>
