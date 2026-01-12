@@ -19,6 +19,7 @@ Cyber Engineering professional with a strong technical foundation, now focused o
 |Network Traffic Analysis |  <a href="https://github.com/GaryCollins-Sec/Network-Traffic-Analysis"> Network Traffic Analysis </a> |               
 |Phishing Automation Analysis Lab |  <a href="https://github.com/GaryCollins-Sec/Phishing-Automation-Analysis-Lab"> Phishing Automation Analysis Lab|
 | Incident Response & Playbook Lab |   <a href="https://github.com/GaryCollins-Sec/Attack-Surface-Lab/tree/main"> Incident Response & Playbook Lab </a> |
+| Hybrid Malware Analysis: Dissecting Malicious Artifacts in Isolated Environments |<a href="https://github.com/GaryCollins-Sec/Hybrid-Malware-Analysis"> Hybrid Malware Analysis: Dissecting Malicious Artifacts in Isolated Environments </a> |
 
 
 
@@ -132,6 +133,5 @@ Cyber Engineering professional with a strong technical foundation, now focused o
 - <a href= "https://github.com/GaryCollins-Sec/Cloud-Security-Lab">  Cloud Security Lab</a>
 - <a href="https://github.com/GaryCollins-Sec/Network-Traffic-Analysis"> Network Traffic Analysis </a>
 - <a href="https://github.com/GaryCollins-Sec/Phishing-Automation-Analysis-Lab"> Phishing Automation Analysis Lab
-- <a href="https://github.com/Garycyberknight1/Hybrid-Malware-Analysis" > Hybrid Malware Analysis: Dissecting Malicious Artifacts in Isolated Environments </a>
 - <a href="https://github.com/GaryCollins-Sec/Attack-Surface-Lab/tree/main"> Incident Response & Playbook Lab </a>
-
+- <a href="https://github.com/Garycyberknight1/Hybrid-Malware-Analysis" > Hybrid Malware Analysis: Dissecting Malicious Artifacts in Isolated Environments </a>
