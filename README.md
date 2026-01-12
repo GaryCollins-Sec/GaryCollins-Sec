@@ -56,13 +56,6 @@ Cyber Engineering professional with a strong technical foundation, now focused o
 
 </div>
 
-### Digital Forensics Tools
-
-
-
-![E3 Forensics](https://img.shields.io/badge/E3_Forensics-004a99?style=for-the-badge&logo=data-exploration&logoColor=white)
-![Autopsy](https://img.shields.io/badge/Autopsy-brown?style=for-the-badge&logo=search&logoColor=white)
-
 
 
 ### Cloud Tools
