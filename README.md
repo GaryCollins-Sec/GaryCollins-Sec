@@ -15,8 +15,8 @@ Cyber Engineering professional with a strong technical foundation, now focused o
 |-----------------------------------------------|----------------------------|
 |Siem Home Lab  | <a href="https://github.com/GaryCollins-Sec/Siem-Home-Lab">Siem Home Lab<a> |
 | Vulnerability Management Lab                  | <a href="https://github.com/GaryCollins-Sec/Vulnerability-Management-Lab"> Vulnerability Management Lab </a> |
-| Cloud Security Lab |  <a href= "https://github.com/GaryCollins-Sec/Cloud-Security-Lab">  Cloud Security Lab </a>                     |
-|Network Traffic Analysis |  <a href="https://github.com/GaryCollins-Sec/Network-Traffic-Analysis"> Network Traffic Analysis </a> |             
+|Network Traffic Analysis |  <a href="https://github.com/GaryCollins-Sec/Network-Traffic-Analysis"> Network Traffic Analysis </a> |
+| Cloud‑Based Honeypot Deployment and Threat Monitoring Using Azure Sentinel |  <a href= "https://github.com/GaryCollins-Sec/Cloud-Security-Lab"> Cloud‑Based Honeypot Deployment and Threat Monitoring Using Azure Sentinel </a>                     |
 | Controlled Penetration Testing Lab Using Kali Linux and Metasploitable 2 |                                                        |
 
 
@@ -108,6 +108,6 @@ Cyber Engineering professional with a strong technical foundation, now focused o
 ## Projects
 - <a href="https://github.com/GaryCollins-Sec/Siem-Home-Lab">Siem Home Lab<a>
 - <a href="https://github.com/GaryCollins-Sec/Vulnerability-Management-Lab"> Vulnerability Management Lab </a>
-- <a href= "https://github.com/GaryCollins-Sec/Cloud-Security-Lab">  Cloud Security Lab</a>
 - <a href="https://github.com/GaryCollins-Sec/Network-Traffic-Analysis"> Network Traffic Analysis </a>
+- <a href= "https://github.com/GaryCollins-Sec/Cloud-Security-Lab"> Cloud‑Based Honeypot Deployment and Threat Monitoring Using Azure Sentinel </a>                 
 - Controlled Penetration Testing Lab Using Kali Linux and Metasploitable 2
