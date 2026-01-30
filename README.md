@@ -23,47 +23,34 @@ Cyber Engineering professional with a strong technical foundation, now focused o
 
 ### Infrastructure as Code
 <div>
-
   <img src="https://img.shields.io/badge/AWS_CloudFormation-FF9900?style=for-the-badge&logo=amazon-cloudformation&logoColor=white" alt="AWS CloudFormation">
 </div>
 
 ### Artificial Intelligence and Machine Learning
 <div>
-
-<p>
   <img src="https://img.shields.io/badge/Cursor-1A1A1A?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor">
   <img src="https://img.shields.io/badge/AWS_GuardDuty-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS GuardDuty">
-</p>
-
 </div>
 
 
-### Container
+
+### Network & Security
 <div>
-    <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white" alt="Wireshark" />
+  <img src="https://img.shields.io/badge/Snort-EE3124?style=for-the-badge&logo=Snort&logoColor=white" alt="Snort" />
+  <img src="https://img.shields.io/badge/Suricata-FF6600?style=for-the-badge&logo=Suricata&logoColor=white" alt="Suricata" />
+  <img src="https://img.shields.io/badge/Nmap-87CEEB?style=for-the-badge&logo=nmap&logoColor=white" alt="Nmap" />
+  <img src="https://img.shields.io/badge/Nessus-FF0000?style=for-the-badge&logo=Nessus&logoColor=white" alt="Nessus" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
 </div>
-
-### Network
-<div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Snort-EE3124?&style=for-the-badge&logo=Snort&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-FF6600?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-pfSense-EE3124?&style=for-the-badge&logo=pfSense&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Nmap-87CEEB?&style=for-the-badge&logo=Nmap&logoColor=black" />
-    <img src="https://img.shields.io/badge/-Nessus-FF0000?&style=for-the-badge&logo=Nessus&logoColor=white" />
-
-
-
-
-</div>
-
 
 
 ### Cloud Tools
 <div>
     <img src="https://img.shields.io/badge/-Amazon%20Web%20Services-232F3E?&style=for-the-badge&logo=Amazon-AWS&logoColor=yellow" />
+    <img src="https://img.shields.io/badge/Boto3-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="Boto3">
     <img src="https://img.shields.io/badge/-IBM%20Cloud-1261FE?&style=for-the-badge&logo=IBM%20Cloud&logoColor=white" />
-    <img src="https://img.shields.io/badge/Boto3-90EE90?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="Boto3">
+    
  
 
 
@@ -82,21 +69,18 @@ Cyber Engineering professional with a strong technical foundation, now focused o
     <img src="https://img.shields.io/badge/-Kali_Linux-557C94?&style=for-the-badge&logo=kalilinux&logoColor=white" />
     <img src="https://img.shields.io/badge/-Ubuntu-E95420?&style=for-the-badge&logo=ubuntu&logoColor=white" />
     <img src="https://img.shields.io/badge/-Windows-0078D6?&style=for-the-badge&logo=windows&logoColor=white" /> 
-    <img src="https://img.shields.io/badge/-macOS-000000?&style=for-the-badge&logo=apple&logoColor=white" />
 </div>
 
 
 ### Programming
 <div>
-    <img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=Python&logoColor=green" />
-    <img src="https://img.shields.io/badge/-Bash-4EAA25?&style=for-the-badge&logo=GNU%20Bash&logoColor=light-green" />
-    <img src="https://img.shields.io/badge/-PowerShell-5391FE?&style=for-the-badge&logo=PowerShell&logoColor=white" />
-    <img src="https://img.shields.io/badge/-C++-00599C?&style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Java-007396?&style=for-the-badge&logo=OpenJDK&logoColor=white" />
-    <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?&style=for-the-badge&logo=JavaScript&logoColor=black" />
-    <img src="https://img.shields.io/badge/-SQL-4479A1?&style=for-the-badge&logo=MySQL&logoColor=white" />
-
-<div>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+</div>
     
 ### Certificates
 
