@@ -16,7 +16,7 @@ Cyber Engineering professional with a strong technical foundation, now focused o
 |Detection Engineering & Network Analysis Lab  | <a href="https://github.com/GaryCollins-Sec/Detection-Engineering-Network-Analysis-Lab">Detection Engineering & Network Analysis Lab<a> |
 | Vulnerability Management Lab                  | <a href="https://github.com/GaryCollins-Sec/Vulnerability-Management-Lab"> Vulnerability Management Lab </a> |
 | AI Security Scanner for AWS S3  | <a href="https://github.com/GaryCollins-Sec/AI-Security-Scanner-for-AWS-S3"> AI Security Scanner for AWS S3 </a> |
-
+|Cloud Exploit and Detect: AWS GuardDuty Lab |                        |
 
 
 ## Tools
@@ -121,4 +121,4 @@ Cyber Engineering professional with a strong technical foundation, now focused o
 ## Projects
 - <a href="https://github.com/GaryCollins-Sec/Detection-Engineering-Network-Analysis-Lab">Detection Engineering & Network Analysis Lab<a>
 - <a href="https://github.com/GaryCollins-Sec/Vulnerability-Management-Lab"> Vulnerability Management Lab </a>
--  <a href="https://github.com/GaryCollins-Sec/AI-Security-Scanner-for-AWS-S3"> AI Security Scanner for AWS S3 </a>
+- <a href="https://github.com/GaryCollins-Sec/AI-Security-Scanner-for-AWS-S3"> AI Security Scanner for AWS S3 </a>
