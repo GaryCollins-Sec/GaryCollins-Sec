@@ -11,10 +11,10 @@ I build AI-driven solutions for security and operational challenges. My work spa
 
 ### **AI + Security**
 - [AI Security Scanner for AWS S3](https://github.com/GaryCollins-Sec/AI-Security-Scanner-for-AWS-S3) – Applied ML to automatically detect misconfigurations and security risks in AWS S3 buckets.  
-- [ML Anomaly Detection (placeholder)](link) – Time-series anomaly detection using supervised and unsupervised ML techniques.
+
   
 
-### AI & Machine Learning
+### **AI & Machine Learning**
 - [Chatbot Assistant using vanilla python](https://github.com/GaryCollinsAI-Sec/Chatbot-Assistant-using-vanilla-python) – Able to ask the bot about the weather within a specific city and inquire information regarding a historical figure, a holiday, and so that it retrieves from the internet.  
 
 
