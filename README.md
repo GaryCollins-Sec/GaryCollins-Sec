@@ -3,7 +3,7 @@
 
 **Applied Machine Learning & Cybersecurity Professional | Automation, Detection, Data**
 
-I build AI-driven solutions for security and operational challenges. My work spans applied machine learning, detection engineering, cloud security, and automation, with a strong foundation in software development and network analysis. I enjoy solving real-world problems through data, code, and creative system design.
+I build AI-driven solutions for security and operational challenges. My work spans applied machine learning, detection engineering, cloud security, and automation, with a strong foundation in software development, network analysis, and cybersecurity. I enjoy solving real-world problems through data, code, and creative system design.
 
 ---
 
