@@ -67,4 +67,4 @@ This methodology applies to both **cybersecurity projects** and **AI-driven init
 
 ## 🔹 Additional Highlights
 - **CTF Participant:** Hands-on cybersecurity challenges to enhance analytical and problem-solving skills.  
-- **Open to AI & Cybersecurity Roles:** Interested in positions where applied machine learning and security expertise intersect, as well as non-security ML engineering roles.  
+- **Open to AI & Cybersecurity Roles:** Interested in applied ML and security projects, as well as broader cybersecurity positions.  
