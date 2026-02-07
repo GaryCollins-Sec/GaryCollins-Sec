@@ -12,7 +12,7 @@ I build AI-driven solutions for security and operational challenges. My work spa
 ### **AI + Security**
 - [AI Security Scanner for AWS S3](https://github.com/GaryCollins-Sec/AI-Security-Scanner-for-AWS-S3) – Applied ML to automatically detect misconfigurations and security risks in AWS S3 buckets.
   
-- [End-to-End ML Pipeline for Cyber Threat Detection](https://github.com/GaryCollins-Sec/AI-Security-Scanner-for-AWS-S3) – This project implements a robust machine learning pipeline that preprocesses raw network traffic data and utilizes a Random Forest classifier to accurately detect and visualize cyber threats within the NSL-KDD dataset.
+- [End-to-End ML Pipeline for Cyber Threat Detection](https://github.com/GaryCollinsAI-Sec/End-to-End-ML-Pipeline-for-Cyber-Threat-Detection) – This project implements a robust machine learning pipeline that preprocesses raw network traffic data and utilizes a Random Forest classifier to accurately detect and visualize cyber threats within the NSL-KDD dataset.
 
   
 ### **Cybersecurity & Cloud**
