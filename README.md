@@ -60,7 +60,7 @@ My work centers on detection engineering, applied ML, and practical security lab
   </li>
   <li>
     <strong>
-      <a href="https://github.com/GaryCollins-Sec/Security-Assessment-Lab-Exploiting-Hardening-Legacy-Systems">
+      <a href="https://github.com/GaryCollinsAI-Sec/Security-Assessment-Lab">
         Security Assessment Lab: Exploiting & Hardening Legacy Systems
       </a>
     </strong> – Practiced exploitation techniques and system hardening to understand attack paths and mitigation strategies.
