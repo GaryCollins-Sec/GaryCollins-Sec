@@ -113,5 +113,5 @@ I specialize in Purple Team Operations, bridging the gap between adversarial emu
 </ol>
 
 <p>
-Interested in roles that applies SOC Analyst, detection engineering, cloud security, AI Security, and red teamer.
+Interested in roles that applies SOC Analyst, detection engineering, cloud security, red teamer, and AI Security.
 </p>
