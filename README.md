@@ -16,7 +16,7 @@ I am a Security Engineer focused on SOC Operations, Penetration Testing, and Det
 
 <h2>Offensive • Defensive • Intelligent Security Engineering</h2>
 
-<h3>⚔️ Adversarial Emulation & Security Validation</h3>
+<h3>⚔️ Adversarial Emulation & Offensive Engineering</h3>
 <ul>
 <li>
 <strong>
