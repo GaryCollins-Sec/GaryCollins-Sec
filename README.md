@@ -62,7 +62,7 @@ Digital Forensic Analysis & Incident Response (DFIR) Lab
 
 <li>
 <strong>
-<a href="https://github.com/GaryCollinsAI-Sec/Digital-Forensic-Analysis-Incident-Response-DFIR-Lab">
+<a href="https://github.com/GaryCollinsAI-Sec/SOC-Home-Lab">
 SOC Home Lab
 </a>
 </strong> – A hands-on testing ground for mastering threat detection, log analysis, and incident response in a controlled environment.
