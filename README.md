@@ -155,5 +155,5 @@ End-to-End ML Pipeline for Cyber Threat Detection
 </ol>
 
 <p>
-Seeking roles in Penetration Testing, Detection Engineering, or SOC Operations where I can bridge the gap between offensive emulation and defensive architecture. I am dedicated to using adversarial insights to engineer high-fidelity detections, automate response, and drive measurable risk reduction.
+Seeking roles in SOC Operations, Detection Engineering, or Penetration Tester where I can bridge the gap between defensive architecture and offensive emulation. I am dedicated to using adversarial insights to engineer high-fidelity detections, automate response, and drive measurable risk reduction.
 </p>
