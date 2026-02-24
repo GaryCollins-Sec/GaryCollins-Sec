@@ -133,6 +133,7 @@ End-to-End ML Pipeline for Cyber Threat Detection
 <ul>
 <li>CompTIA Security+ (Expected June 2026)</li>
 <li>Google Cybersecurity Professional Certificate (Expected March 2026)</li>
+<li>Cisco Ethical Hacking Certificate</li>
 </ul>
 
 <h2>Education</h2>
