@@ -6,7 +6,6 @@
 </a>
 </p>
 
-<h3><h3>SOC Analyst | SIEM (Splunk, Wazuh) | Alert Triage & Incident Escalation | AWS Security | Entry-Level Cybersecurity</h3></h3>
 
 <p>
 Entry-level SOC Analyst with hands-on experience triaging SIEM alerts, performing log correlation, and escalating validated security incidents. Experienced with Splunk and Wazuh in structured monitoring environments, focusing on threat validation and false positive reduction.
