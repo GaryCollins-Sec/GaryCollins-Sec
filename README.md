@@ -89,18 +89,10 @@ Windows Threat Detection & IR Lab
 <li>
 <strong>
 <a href="https://github.com/GaryCollinsAI-Sec/Project-Ghostwire-Raspberry-Pi-Deception-Environment">
-Project Ghostwire
+Project Ghostwire: Raspberry Pi Deception Environment
 </a>
 </strong> - A raspberry pi-powered deception environment that lures attackers into a high-fidelity "phantom" system to safely observe their tactics, delay their progress, and capture their tools.
 </li>
-
-
-
-
-
-
-
-
   
 </ul>
 
