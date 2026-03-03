@@ -79,6 +79,13 @@ Cloud Security with AWS IAM
 </a>
 </strong> – Designed and tested least-privilege IAM policies and access control strategies in AWS.
 </li>
+<li>
+<strong>
+<a href="">
+Windows Threat Detection & IR Lab
+</a>
+</strong>
+</li>
 
 
 
