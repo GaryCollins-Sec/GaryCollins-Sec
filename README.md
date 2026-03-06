@@ -96,7 +96,7 @@ Project Ghostwire: Raspberry Pi Deception Environment
   
 </ul>
 
-<h3>🤖 AI-Driven Security Engineering</h3>
+<h3>🤖 AI Security Engineering</h3>
 <ul>
 <li>
 <strong>
