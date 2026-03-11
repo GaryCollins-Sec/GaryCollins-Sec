@@ -83,16 +83,6 @@ Currently pursuing an M.S. in Cyber Engineering and seeking Tier 1 SOC, Cloud Se
 </ul>
 
 <hr>
-
-<h2>Security Philosophy</h2>
-<ol>
-  <li><strong>Define the Threat Model:</strong> Prioritize risks based on real-world impact, feasibility, and business logic.</li>
-  <li><strong>Emulate Adversarial Behavior:</strong> Offense informs defense; realistic penetration testing validates detections and architecture.</li>
-  <li><strong>Fortify Blue Team Defense:</strong> Implement multi-layered defense-in-depth and maintain continuous visibility to detect threats in real-time.</li>
-  <li><strong>Ethical AI Oversight:</strong> Leverage AI for scale while ensuring transparency and human-in-the-loop accountability.</li>
-  <li><strong>Automate & Iterate:</strong> Security is a process, not a product; automate routine tasks to focus on complex threats.</li>
-</ol>
-
 <p>
-Seeking roles in SOC Operations, Detection Engineering, or Penetration Testing where I can bridge the gap between defensive architecture and offensive emulation. Dedicated to engineering high-fidelity detections, automating response, and driving measurable risk reduction.
+Seeking roles in SOC Operations, Cloud Security, Detection Engineering, or Penetration Testing where I can bridge the gap between defensive architecture and offensive emulation. Dedicated to engineering high-fidelity detections, automating response, and driving measurable risk reduction.
 </p>
