@@ -34,7 +34,7 @@ Currently pursuing an M.S. in Cyber Engineering and actively seeking Tier 1 SOC 
 <h3>🛡 Detection & Defensive Engineering</h3>
 <p>
   <strong>
-    <a href="https://github.com/GaryCollins-Sec/Defensive-Engineering-Projects">
+    <a href="https://github.com/GaryCollinsAI-Sec/Defensive-Engineering-Projects">
       View All Defensive Projects →
     </a>
   </strong>
