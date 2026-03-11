@@ -25,7 +25,7 @@ Currently pursuing an M.S. in Cyber Engineering and actively seeking Tier 1 SOC 
 <h3>⚔️ Adversarial Emulation & Offensive Engineering</h3>
 <p>
   <strong>
-    <a href="https://github.com/GaryCollinsAI-Sec/Offensive-Engineering-Projects">
+    <a href="https://github.com/GaryCollinsAI-Sec/Adversarial-Emulation-Offensive-Engineering">
       View All Offensive Projects →
     </a>
   </strong>
