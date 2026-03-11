@@ -43,7 +43,7 @@ Currently pursuing an M.S. in Cyber Engineering and actively seeking Tier 1 SOC 
 <h3>🤖 AI Security Engineering</h3>
 <p>
   <strong>
-    <a href="https://github.com/GaryCollinsAI-Sec/AI-Security-Projects">
+    <a href="https://github.com/GaryCollinsAI-Sec/AI-Security-Engineering-Projects">
       View All AI Security Projects →
     </a>
   </strong>
