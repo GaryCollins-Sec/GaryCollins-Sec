@@ -21,20 +21,20 @@ Currently pursuing an M.S. in Cyber Engineering and seeking Tier 1 SOC, Cloud Se
 
 <h2>Offensive • Defensive • Cloud • AI Security Engineering</h2>
 
-<h3>⚔️ Offensive Engineering</h3>
+<h3>⚔️ Offensive Security Engineering</h3>
 <p>
   <strong>
     <a href="https://github.com/GaryCollinsAI-Sec/Offensive-Engineering-Projects">
-      View All Offensive Projects →
+      View All Offensive Security Projects →
     </a>
   </strong>
 </p>
 
-<h3>🛡 Defensive Engineering</h3>
+<h3>🛡 Defensive Security Engineering</h3>
 <p>
   <strong>
     <a href="https://github.com/GaryCollinsAI-Sec/Defensive-Engineering-Projects">
-      View All Defensive Projects →
+      View All Defensive Security Projects →
     </a>
   </strong>
 </p>
