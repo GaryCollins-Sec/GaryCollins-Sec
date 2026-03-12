@@ -60,12 +60,11 @@ M.S. in Cyber Engineering candidate committed to bridging the gap between on-pre
 <hr>
 
 <h2>Technical Skills</h2>
-<p><strong>Programming:</strong> Python, Bash, SQL, PowerShell, C++, Java, JavaScript</p>
-<p><strong>AI & Machine Learning:</strong> Scikit-learn, NumPy, Matplotlib, Jupyter, Ollama, BERT, Transformers</p>
-<p><strong>Detection & Forensic Tools:</strong> Wireshark, Snort, Suricata, Nessus, Wazuh, Splunk</p>
-<p><strong>Cloud & Infrastructure:</strong> AWS (IAM, S3, Boto3), Docker, pfSense, Oracle VirtualBox</p>
-<p><strong>Operating Systems:</strong> Kali Linux, Ubuntu, Windows 10/11</p>
-
+  <strong>Cloud & Infrastructure:</strong> AWS (IAM, S3, CloudTrail, VPC, Boto3), Docker, pfSense, VirtualBox<br>
+  <strong>Detection & Forensics:</strong> Splunk, Wazuh, Wireshark, Snort, Suricata, Nessus<br>
+  <strong>AI & Machine Learning:</strong> Scikit-learn, NumPy, Matplotlib, Ollama, BERT, Transformers, Cursor AI<br>
+  <strong>Programming:</strong> Python (Automation/Boto3), Bash, SQL, PowerShell, C++, Java
+  <strong>Operating Systems:</strong> Wndows 10/11, Kali, Ubuntu
 <hr>
 
 <h2>Certifications</h2>
@@ -84,5 +83,7 @@ M.S. in Cyber Engineering candidate committed to bridging the gap between on-pre
 
 <hr>
 <p>
-Seeking roles in SOC Operations, Cloud Security, Detection Engineering, or Penetration Testing where I can bridge the gap between defensive architecture and offensive emulation. Dedicated to engineering high-fidelity detections, automating response, and driving measurable risk reduction.
+<p align="center">
+  <em>Dedicated to engineering high-fidelity detections, automating cloud response, and driving measurable risk reduction.</em>
+</p>
 </p>
