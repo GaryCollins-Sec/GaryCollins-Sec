@@ -28,43 +28,27 @@ M.S. in Cyber Engineering candidate committed to bridging the gap between on-pre
 
 <strong>
     <a href="https://github.com/GaryCollinsAI-Sec/Offensive-Engineering-Projects">
-      View All Offensive Security Projects →
+      View All Offensive Security Projects
     </a> <br>
 
    <strong>
     <a href="https://github.com/GaryCollinsAI-Sec/Defensive-Engineering-Projects">
-      View All Defensive Security Projects →
+      View All Defensive Security Projects
     </a> <br>
   </strong>
 
  <strong>
     <a href="https://github.com/GaryCollinsAI-Sec/Cloud-Security-Engineering-Projects">
-      View All Cloud Security Projects →
+      View All Cloud Security Projects
     </a> <br>
   </strong>
 
   <strong>
     <a href="https://github.com/GaryCollinsAI-Sec/AI-Security-Engineering-Projects">
-      View All AI Security Projects →
+      View All AI Security Projects
     </a> <br>
   </strong>
 
-
-
-
-
-
-    
-  </ul>
-  
-</p>
-<h3>🤖 AI Engineering </h3>
-<strong>
-  <a></a>
-  
-</strong>
-<p>
-  
 </p>
 
 
