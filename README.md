@@ -3,9 +3,9 @@
 <p>
 Full-Stack Software Engineer and Cybersecurity Engineer focused on building secure, scalable applications and cloud-native detection systems.
 
-My work combines software engineering, cloud security, and applied machine learning to create production-ready systems that improve visibility, automate response, and reduce risk.
+My work integrates software engineering, cloud security, and applied machine learning to develop production-ready systems that improve threat visibility, automate response, and strengthen defensive capabilities.
 
-Currently expanding my development stack with modern web technologies while continuing to build advanced detection and monitoring environments.
+Currently expanding my full-stack development stack while continuing to engineer advanced monitoring and detection environments.
 </p>
 
 <p>
