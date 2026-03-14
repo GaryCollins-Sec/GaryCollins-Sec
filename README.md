@@ -1,11 +1,12 @@
 <h1>Hi, I'm Gary Collins</h1>
 
 <p>
-Full-Stack Software Engineer and Cybersecurity Engineer focused on building secure, scalable applications and cloud-native detection systems.
+**Full-Stack Software Engineer and Cybersecurity Engineer** focused on building secure, scalable applications and cloud-native detection systems.
 
 My work integrates software engineering, cloud security, and applied machine learning to develop production-ready systems that improve threat visibility, automate response, and strengthen defensive capabilities.
 
-Currently expanding my full-stack development stack while continuing to engineer advanced monitoring and detection environments.
+Currently expanding my full-stack development stack while continuing to engineer purple teaming solutions that bridge offensive and defensive security practices.
+
 </p>
 
 <p>
