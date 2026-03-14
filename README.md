@@ -32,7 +32,6 @@ View Full-Stack Development Projects
 </a>
 </li>
 
-<br>
 
 <li>
 <strong>Cybersecurity Engineering</strong><br>
@@ -43,8 +42,6 @@ View Defensive Security Projects
 </a>
 </li>
 
-<br>
-
 <li>
 <strong>Offensive Security Research</strong><br>
 Penetration testing labs, exploitation techniques, and adversary emulation environments.
@@ -54,7 +51,7 @@ View Offensive Security Projects
 </a>
 </li>
 
-<br>
+
 
 <li>
 <strong>Cloud Security Engineering</strong><br>
@@ -65,7 +62,7 @@ View Cloud Security Projects
 </a>
 </li>
 
-<br>
+
 
 <li>
 <strong>AI & Machine Learning Security</strong><br>
@@ -87,27 +84,26 @@ View AI Security Projects
 <strong>Full-Stack Development</strong><br>
 React, TypeScript, FastAPI, Tailwind CSS, PostgreSQL, Docker
 
-<br><br>
+
 
 <strong>Cloud & Infrastructure</strong><br>
 AWS (EC2, IAM, CloudTrail), Docker, pfSense, VirtualBox
 
-<br><br>
+
 
 <strong>Detection & Security Engineering</strong><br>
 Splunk, Wazuh, Wireshark, Snort, Suricata, Nessus
 
-<br><br>
+
 
 <strong>AI & Machine Learning</strong><br>
 PyTorch, Scikit-learn, Pandas, NumPy, BERT, Transformers, Ollama
 
-<br><br>
+
 
 <strong>Programming</strong><br>
 Python, Go, JavaScript, Bash, SQL, PowerShell, C++, Java, Golang
 
-<br><br>
 
 <strong>Operating Systems</strong><br>
 Linux (Kali, Ubuntu), Windows 10/11
