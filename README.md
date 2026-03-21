@@ -62,15 +62,15 @@ Professional-grade reports including executive summaries, technical findings, an
 <p>
 
 <strong>Vulnerability Management & Assessment</strong><br>
-Nessus, OpenVAS, Nmap, CVSS Scoring, Risk Prioritization, Asset-Based Analysis
+Nessus, Nmap, CVSS Scoring, Risk Prioritization, Asset-Based Analysis
 <br><br>
 
 <strong>Security Tools & Analysis</strong><br>
-Wireshark, Burp Suite, Wazuh, Splunk, Snort, Suricata
+Wireshark, Wazuh, Splunk, Snort, Suricata
 <br><br>
 
 <strong>Cloud & Infrastructure</strong><br>
-AWS (EC2, IAM, CloudTrail), Docker, pfSense, VirtualBox
+AWS, IBM Cloud, Docker, pfSense, VirtualBox
 <br><br>
 
 <strong>Programming & Automation</strong><br>
