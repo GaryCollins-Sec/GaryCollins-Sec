@@ -5,9 +5,10 @@
 
 I specialize in identifying, analyzing, and prioritizing security vulnerabilities across applications, systems, and cloud environments. My work focuses on transforming raw scan data into actionable risk insights that drive remediation and improve organizational security posture.
 
-With a background in software engineering and security operations, I bring a risk-based mindset to vulnerability management—combining technical analysis, asset context, and clear reporting to support effective decision-making.
+With experience in security operations, I bring a risk-based mindset to vulnerability management—combining technical analysis, asset context, and clear reporting to support effective decision-making.
 
 Currently building hands-on labs and projects that simulate real-world vulnerability management workflows, including asset discovery, scanning, risk prioritization, and remediation planning.
+</p>
 </p>
 
 <p>
@@ -26,10 +27,10 @@ Currently building hands-on labs and projects that simulate real-world vulnerabi
 <ul>
 
 <li>
-<strong>End-to-End Vulnerability Management Lab</strong><br>
+<strong> Vulnerability Management Lab</strong><br>
 Simulated enterprise workflow including asset discovery, vulnerability scanning, CVSS-based prioritization, and remediation planning.
 <br>
-<a href="#">View Project</a>
+<a href="https://github.com/GaryCollinsAI-Sec/Vulnerability-Management-Lab">View Project</a>
 </li>
 
 <li>
