@@ -40,10 +40,10 @@ Performed a risk-based vulnerability assessment on a legacy FTP system, validati
 </li>
 
 <li>
-<strong>Network Vulnerability Scan & Analysis</strong><br>
-Nmap and Nessus-based enumeration with vulnerability analysis and risk-based prioritization.
+<strong>AI Security Scanner for AWS S3</strong><br>
+Automated S3 misconfiguration detection with risk-based prioritization, remediation recommendations, and verification of mitigations.
 <br>
-<a href="#">View Project</a>
+<a href="https://github.com/GaryCollinsAI-Sec/AI-Security-Scanner-for-AWS-S3">View Project</a>
 </li>
 
 <li>
