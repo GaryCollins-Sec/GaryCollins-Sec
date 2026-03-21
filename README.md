@@ -33,10 +33,9 @@ Simulated enterprise workflow including asset discovery, vulnerability scanning,
 </li>
 
 <li>
-<strong>Web Application Vulnerability Assessment</strong><br>
-OWASP Top 10 testing with detailed findings, risk ratings, and remediation guidance.
-<br>
-<a href="#">View Project</a>
+<strong>Security Assessment: Legacy System Exploitation & Remediation</strong><br>
+Performed a risk-based vulnerability assessment on a legacy FTP system, validating exploitation and implementing remediation to mitigate critical threats.<br>
+<a href="https://github.com/GaryCollinsAI-Sec/Security-Assessment-Legacy-System-Exploitation-Remediation">View Project</a>
 </li>
 
 <li>
