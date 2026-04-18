@@ -18,15 +18,54 @@ Currently advancing toward cybersecurity engineering with hands-on experience in
 
 <hr>
 
+<h2>🧠 Technical Skills</h2>
+
+<p>
+<strong>Cybersecurity & Defense</strong><br>
+Vulnerability Assessment • Incident Response Fundamentals • Network Traffic Analysis • Security Hardening • Threat Detection • Firewall Configuration • Security Monitoring
+</p>
+
+<p>
+<strong>Systems Administration (IT Core)</strong><br>
+Windows 10/11 • Linux (Kali, Ubuntu) • System Troubleshooting • Patch Management Concepts • Print Services • General IT Support & Troubleshooting
+</p>
+
+<p>
+<strong>Networking & Infrastructure</strong><br>
+TCP/IP • DNS • DHCP • VPN Configuration • VLANs • Routing • Network Troubleshooting • pfSense • Wireshark
+</p>
+
+<p>
+<strong>Security Tools</strong><br>
+Wireshark • Splunk (SIEM) • pfSense • VirtualBox • Linux Security Tools
+</p>
+
+<p>
+<strong>Scripting & Automation</strong><br>
+PowerShell • Python • Bash • SQL
+</p>
+
+<hr>
+
 <h2>🛡️ Cybersecurity & Infrastructure Projects</h2>
 
 <ul>
 
 <li>
-<strong>Enterprise Help Desk & Ticketing Environment (Spiceworks)</strong>
+<strong>Enterprise Help Desk & Security Incident Support Environment (Spiceworks)</strong>
 <br><br>
 
-Built and managed a cloud-based ITSM system to support 15+ simulated users across County departments (Law Enforcement, Health Services, Public Works). <strong>Impact:</strong> Resolved critical tier-1 and tier-2 issues involving <strong>VPN tunnels</strong>, <strong>Windows 11</strong> OS loops, and <strong>Network Printing</strong>; documented all resolutions with clear technical SOPs.
+Built and managed a cloud-based ITSM system supporting 15+ simulated users across enterprise-style departments including Public Services, Healthcare, and Law Enforcement.
+
+<br><br>
+
+<strong>Security-Relevant Impact:</strong>
+<ul>
+<li>Resolved tier-1 and tier-2 incidents involving VPN access failures, Windows 11 system issues, and network printing disruptions</li>
+<li>Applied structured troubleshooting aligned with basic incident response workflows</li>
+<li>Documented system issues and resolutions using standardized technical procedures</li>
+</ul>
+
 <br>
 <a href="https://github.com/GaryCollinsAI-Sec/Enterprise-Help-Desk-Ticketing-Environment-Spiceworks-">View Project</a>
 </li>
@@ -37,15 +76,37 @@ Built and managed a cloud-based ITSM system to support 15+ simulated users acros
 <strong>Network Infrastructure Security Hardening & Segmentation Project</strong>
 <br><br>
 
-Assessed and improved a simulated enterprise network environment by implementing firewall rules, segmentation strategies, and access control controls using pfSense.
+Assessed and improved a simulated enterprise network environment by implementing firewall rules, segmentation strategies, and access control policies using pfSense.
 
 <br><br>
 
-<strong>IT & Security Impact:</strong>
+<strong>Security-Relevant Impact:</strong>
 <ul>
-<li>Configured network infrastructure including VPNs, routing, and firewall rules</li>
-<li>Reduced attack surface through segmentation and controlled access policies</li>
-<li>Improved network stability and security posture through infrastructure hardening</li>
+<li>Configured secure network infrastructure including VPNs, routing, and firewall rules</li>
+<li>Reduced attack surface through segmentation and traffic restriction controls</li>
+<li>Improved network resilience and security posture through infrastructure hardening</li>
+</ul>
+
+<br>
+<a href="https://github.com/GaryCollinsAI-Sec/Security-Assessment-Legacy-System-Exploitation-Remediation">View Project</a>
+</li>
+
+<br><br>
+
+<li>
+<strong>Security Assessment Lab: Legacy System Exploitation & Remediation</strong>
+<br><br>
+
+Conducted a full lifecycle security assessment of a vulnerable legacy FTP service (vsFTPd 2.3.4), including vulnerability validation, exploitation, and remediation within a segmented virtual environment.
+
+<br><br>
+
+<strong>Security Focus:</strong>
+<ul>
+<li>Validated critical remote code execution vulnerability resulting in full system compromise</li>
+<li>Executed post-exploitation analysis confirming root-level access</li>
+<li>Implemented remediation using host hardening and pfSense firewall controls</li>
+<li>Verified mitigation through successful exploit failure after remediation</li>
 </ul>
 
 <br>
@@ -56,41 +117,12 @@ Assessed and improved a simulated enterprise network environment by implementing
 
 <hr>
 
-<h2>🧠 Technical Skills</h2>
-
-<p>
-<strong>Cybersecurity & Defense</strong><br>
-Vulnerability Assessment • Incident Response Fundamentals • Network Traffic Analysis • Security Hardening • Threat Detection • Firewall Configuration • Security Monitoring
-</p>
-
-<p>
-<strong>Systems Administration (IT Core)</strong><br>
-Windows Server 2019/2022 • Windows 10/11 • Active Directory (Users, Groups, GPO) • DNS/DHCP • Patch Management (WSUS) • Print Services • System Troubleshooting
-</p>
-
-<p>
-<strong>Networking & Infrastructure</strong><br>
-TCP/IP • VPN Configuration • VLANs • Routing • Network Troubleshooting • pfSense • Wireshark
-</p>
-
-<p>
-<strong>Security Tools</strong><br>
-Wireshark • Splunk (SIEM) • pfSense • VirtualBox • Windows Security Tools
-</p>
-
-<p>
-<strong>Scripting & Automation</strong><br>
-PowerShell • Python • Bash • SQL
-</p>
-
-<hr>
-
 <h2>🧪 Active Security Engineering Project</h2>
 
 <p>
 <strong>Multi-Layer Intrusion Detection & Incident Response Lab (SIEM + Network Analysis)</strong><br><br>
 
-Designing a full-stack security monitoring environment that integrates system logs, network traffic analysis, and intrusion detection to simulate real-world SOC operations.
+Designing a full-stack security monitoring environment integrating log analysis, network traffic inspection, and intrusion detection to simulate real-world SOC operations.
 
 <br><br>
 
