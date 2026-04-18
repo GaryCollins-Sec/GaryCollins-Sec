@@ -23,20 +23,10 @@ Currently advancing toward cybersecurity engineering with hands-on experience in
 <ul>
 
 <li>
-<strong>Enterprise IT Service Desk & Security Incident Simulation Environment</strong>
+<strong>Enterprise Help Desk & Ticketing Environment (Spiceworks)</strong>
 <br><br>
 
-Built and managed a simulated IT service desk environment supporting multi-department operations while integrating security-focused troubleshooting scenarios including authentication issues, VPN anomalies, and system misconfigurations.
-
-<br><br>
-
-<strong>IT & Security Impact:</strong>
-<ul>
-<li>Resolved tier-1 and tier-2 technical issues across Windows and network environments</li>
-<li>Applied structured incident documentation aligned with basic security triage workflows</li>
-<li>Improved troubleshooting efficiency through standardized resolution procedures</li>
-</ul>
-
+Built and managed a cloud-based ITSM system to support 15+ simulated users across County departments (Law Enforcement, Health Services, Public Works). <strong>Impact:</strong> Resolved critical tier-1 and tier-2 issues involving <strong>VPN tunnels</strong>, <strong>Windows 11</strong> OS loops, and <strong>Network Printing</strong>; documented all resolutions with clear technical SOPs.
 <br>
 <a href="https://github.com/GaryCollinsAI-Sec/Enterprise-Help-Desk-Ticketing-Environment-Spiceworks-">View Project</a>
 </li>
