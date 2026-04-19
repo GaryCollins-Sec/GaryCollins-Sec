@@ -7,7 +7,7 @@
 <p>
 Cybersecurity and IT infrastructure professional focused on vulnerability management, security monitoring, and network defense in enterprise-style environments. Experienced in identifying security risks, analyzing system and network activity, and implementing remediation through structured, risk-based approaches.
 
-Hands-on experience with SIEM analysis, intrusion detection, vulnerability assessment, and network segmentation using tools such as pfSense, Splunk, Wireshark, Kali Linux, and Metasploitable 2.
+Hands-on experience with SIEM analysis, intrusion detection, vulnerability assessment, identity and access management (IAM), and network segmentation using tools such as AWS, IAM, pfSense, Splunk, Wireshark, Kali Linux, and Metasploitable 2.
 </p>
 
 <p>
@@ -22,7 +22,12 @@ Hands-on experience with SIEM analysis, intrusion detection, vulnerability asses
 
 <p>
 <strong>Security Operations</strong><br>
-Vulnerability Management • Incident Response • Log Analysis • Threat Detection • Security Monitoring • Risk Assessment
+Vulnerability Management • Incident Response • Log Analysis • Threat Detection • Security Monitoring • Risk Assessment • Identity & Access Management (IAM)
+</p>
+
+<p>
+<strong>Cloud & Security (AWS)</strong><br>
+AWS Core Services • IAM (Users, Roles, Policies) • Cloud Security Fundamentals • Access Control • Identity Governance Concepts
 </p>
 
 <p>
@@ -32,7 +37,7 @@ TCP/IP • DNS • DHCP • VPNs • VLANs • Routing • Network Troubleshooti
 
 <p>
 <strong>Security Tools</strong><br>
-Splunk (SIEM) • Suricata • Nessus Essentials • Kali Linux • VirtualBox • pfSense
+Splunk (SIEM) • Suricata • Nessus Essentials • AWS Console • Kali Linux • VirtualBox • pfSense
 </p>
 
 <p>
@@ -143,9 +148,9 @@ Developing SOC-style monitoring workflows using SIEM, network analysis, and intr
 <li><strong>M.S. Cyber Engineering</strong> – University of the Cumberlands (Expected 2026)</li>
 <li><strong>B.S. Computer Science</strong> – Colorado State University Global (2024)</li>
 <li><strong>A.S. Computer Science</strong> – Yuba College (2021)</li>
-<li>Comptia Security+ (Expected 2026) </li>
-<li>Cisco CCNA (Expected 2026) </li>
-<li>Google IT Support Professional Certificate (Expected 2026)</li>
+<li>CompTIA Security+ (Expected 2026)</li>
+<li>Cisco CCNA (Expected 2026)</li>
+<li>Google IT Support Professional Certificate (2026)</li>
 </ul>
 
 <hr>
