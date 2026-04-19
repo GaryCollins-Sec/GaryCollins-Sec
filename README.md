@@ -1,13 +1,13 @@
 <h1>Gary Collins</h1>
 
 <p>
-<strong>Cybersecurity & IT Infrastructure Engineer | Systems Administration | Network Security | Incident Response</strong>
+<strong>Cybersecurity & IT Infrastructure Engineer | Network Security | Systems Administration | Incident Response</strong>
 </p>
 
 <p>
-IT and cybersecurity professional with experience supporting enterprise systems, maintaining infrastructure reliability, and applying security principles to protect networks and endpoints. Skilled in systems administration, network troubleshooting, and security-focused operations including vulnerability identification, incident response, and infrastructure hardening.
+Cybersecurity and IT infrastructure professional focused on vulnerability management, security monitoring, and network defense in enterprise-style environments. Experienced in identifying security risks, analyzing system and network activity, and implementing remediation through structured, risk-based approaches.
 
-Currently advancing toward cybersecurity engineering with hands-on experience in lab-based security projects involving threat detection, network defense, and system monitoring.
+Hands-on experience with SIEM analysis, intrusion detection, vulnerability assessment, and network segmentation using tools such as pfSense, Splunk, Wireshark, Kali Linux, and Metasploitable 2.
 </p>
 
 <p>
@@ -21,122 +21,123 @@ Currently advancing toward cybersecurity engineering with hands-on experience in
 <h2>🧠 Technical Skills</h2>
 
 <p>
-<strong>Cybersecurity & Defense</strong><br>
-Vulnerability Assessment • Incident Response Fundamentals • Network Traffic Analysis • Security Hardening • Threat Detection • Firewall Configuration • Security Monitoring
+<strong>Security Operations</strong><br>
+Vulnerability Management • Incident Response • Log Analysis • Threat Detection • Security Monitoring • Risk Assessment
 </p>
 
 <p>
-<strong>Systems Administration (IT Core)</strong><br>
-Windows 10/11 • Linux (Kali, Ubuntu) • System Troubleshooting • Patch Management Concepts • Print Services • General IT Support & Troubleshooting
-</p>
-
-<p>
-<strong>Networking & Infrastructure</strong><br>
-TCP/IP • DNS • DHCP • VPN Configuration • VLANs • Routing • Network Troubleshooting • pfSense • Wireshark
+<strong>Networking & Defense</strong><br>
+TCP/IP • DNS • DHCP • VPNs • VLANs • Routing • Network Troubleshooting • pfSense (Firewall & Segmentation) • Wireshark
 </p>
 
 <p>
 <strong>Security Tools</strong><br>
-Wireshark • Splunk (SIEM) • pfSense • VirtualBox • Linux Security Tools
+Splunk (SIEM) • Suricata • Nessus Essentials • Kali Linux • VirtualBox • pfSense
 </p>
 
 <p>
-<strong>Scripting & Automation</strong><br>
+<strong>Systems</strong><br>
+Windows 10/11 • Linux (Ubuntu) • IT Support Fundamentals • System Troubleshooting
+</p>
+
+<p>
+<strong>Scripting</strong><br>
 PowerShell • Python • Bash • SQL
 </p>
 
 <hr>
 
-<h2>🛡️ Cybersecurity & Infrastructure Projects</h2>
+<h2>🛡️ Security & IT Projects</h2>
 
 <ul>
 
 <li>
-<strong>Enterprise Help Desk & Security Incident Support Environment (Spiceworks)</strong>
-<br><br>
+<strong>Vulnerability Management Lab (Nessus)</strong><br>
+Scanned Linux systems for vulnerabilities and implemented structured remediation in a virtual enterprise environment.<br><br>
 
-Built and managed a cloud-based ITSM system supporting 15+ simulated users across enterprise-style departments including Public Services, Healthcare, and Law Enforcement.
-
-<br><br>
-
-<strong>Security-Relevant Impact:</strong>
+<strong>Focus:</strong>
 <ul>
-<li>Resolved tier-1 and tier-2 incidents involving VPN access failures, Windows 11 system issues, and network printing disruptions</li>
-<li>Applied structured troubleshooting aligned with basic incident response workflows</li>
-<li>Documented system issues and resolutions using standardized technical procedures</li>
+<li>Identified vulnerabilities using Nessus</li>
+<li>Prioritized risk using CVSS scoring</li>
+<li>Remediated issues through service removal and hardening</li>
+<li>Validated fixes through post-scan verification</li>
 </ul>
 
+<a href="https://github.com/GaryCollinsAI-Sec/Vulnerability-Management-Lab">View Project</a>
+</li>
+
 <br>
+
+<li>
+<strong>Security Assessment Lab (Kali Linux + Metasploitable 2 + pfSense)</strong><br>
+Performed full exploitation lifecycle in a segmented lab environment using Kali Linux and Metasploitable 2 with pfSense-based containment.<br><br>
+
+<strong>Focus:</strong>
+<ul>
+<li>Validated critical remote code execution vulnerability</li>
+<li>Confirmed full system compromise via exploitation testing</li>
+<li>Applied network-level containment using pfSense</li>
+<li>Hardened system to eliminate attack vectors</li>
+<li>Verified remediation via exploit failure testing</li>
+</ul>
+
+<a href="https://github.com/GaryCollinsAI-Sec/Security-Assessment-Legacy-System-Exploitation-Remediation">View Project</a>
+</li>
+
+<br>
+
+<li>
+<strong>Network Security Hardening & Segmentation (pfSense)</strong><br>
+Implemented firewall rules and network segmentation to reduce attack surface in a simulated enterprise environment.<br><br>
+
+<strong>Focus:</strong>
+<ul>
+<li>Configured pfSense firewall policies</li>
+<li>Implemented network segmentation</li>
+<li>Reduced lateral movement risk</li>
+</ul>
+
+<a href="https://github.com/GaryCollinsAI-Sec/Security-Assessment-Legacy-System-Exploitation-Remediation">View Project</a>
+</li>
+
+<br>
+
+<li>
+<strong>Enterprise Help Desk & IT Support Environment</strong><br>
+Simulated IT service desk operations with structured incident handling workflows.<br><br>
+
+<strong>Focus:</strong>
+<ul>
+<li>Resolved VPN, system, and network incidents</li>
+<li>Applied structured troubleshooting methods</li>
+<li>Documented technical resolutions</li>
+</ul>
+
 <a href="https://github.com/GaryCollinsAI-Sec/Enterprise-Help-Desk-Ticketing-Environment-Spiceworks-">View Project</a>
 </li>
 
-<br><br>
+<br>
 
 <li>
-<strong>Network Infrastructure Security Hardening & Segmentation Project</strong>
-<br><br>
+<strong>Security Monitoring Lab (SIEM + Network Analysis)</strong><br>
+Developing SOC-style monitoring workflows using SIEM, network analysis, and intrusion detection tools.<br><br>
 
-Assessed and improved a simulated enterprise network environment by implementing firewall rules, segmentation strategies, and access control policies using pfSense.
-
-<br><br>
-
-<strong>Security-Relevant Impact:</strong>
+<strong>Focus:</strong>
 <ul>
-<li>Configured secure network infrastructure including VPNs, routing, and firewall rules</li>
-<li>Reduced attack surface through segmentation and traffic restriction controls</li>
-<li>Improved network resilience and security posture through infrastructure hardening</li>
+<li>Log analysis using Splunk</li>
+<li>Network inspection using Wireshark</li>
+<li>Intrusion detection using Suricata</li>
+<li>Incident correlation and analysis workflows</li>
 </ul>
 
-<br>
-<a href="https://github.com/GaryCollinsAI-Sec/Security-Assessment-Legacy-System-Exploitation-Remediation">View Project</a>
-</li>
-
-<br><br>
-
-<li>
-<strong>Security Assessment Lab: Legacy System Exploitation & Remediation</strong>
-<br><br>
-
-Conducted a full lifecycle security assessment of a vulnerable legacy FTP service (vsFTPd 2.3.4), including vulnerability validation, exploitation, and remediation within a segmented virtual environment.
-
-<br><br>
-
-<strong>Security Focus:</strong>
-<ul>
-<li>Validated critical remote code execution vulnerability resulting in full system compromise</li>
-<li>Executed post-exploitation analysis confirming root-level access</li>
-<li>Implemented remediation using host hardening and pfSense firewall controls</li>
-<li>Verified mitigation through successful exploit failure after remediation</li>
-</ul>
-
-<br>
-<a href="https://github.com/GaryCollinsAI-Sec/Security-Assessment-Legacy-System-Exploitation-Remediation">View Project</a>
+<em>Active SOC monitoring project</em>
 </li>
 
 </ul>
 
 <hr>
 
-<h2>🧪 Active Security Engineering Project</h2>
-
-<p>
-<strong>Multi-Layer Intrusion Detection & Incident Response Lab (SIEM + Network Analysis)</strong><br><br>
-
-Designing a full-stack security monitoring environment integrating log analysis, network traffic inspection, and intrusion detection to simulate real-world SOC operations.
-
-<br><br>
-
-<strong>Technologies:</strong>
-<ul>
-<li>Splunk (SIEM log analysis and alerting)</li>
-<li>Wireshark (network traffic inspection)</li>
-<li>Suricata (intrusion detection system)</li>
-</ul>
-</p>
-
-<hr>
-
-<h2>🎓 Education & Professional Development</h2>
+<h2>🎓 Education</h2>
 
 <ul>
 <li><strong>M.S. Cyber Engineering</strong> – University of the Cumberlands (Expected 2026)</li>
@@ -148,5 +149,5 @@ Designing a full-stack security monitoring environment integrating log analysis,
 <hr>
 
 <p align="center">
-<em>Bridging IT infrastructure and cybersecurity engineering to build secure, resilient, and high-availability systems.</em>
+<em>Cybersecurity and IT infrastructure professional focused on building secure, resilient, and observable systems through hands-on security engineering and operations practice.</em>
 </p>
