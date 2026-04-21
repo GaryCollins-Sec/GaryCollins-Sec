@@ -124,7 +124,7 @@ Simulated IT service desk operations with structured incident handling workflows
 <br>
 
 <li>
-<strong>Security Monitoring Lab (SIEM + Network Analysis)</strong><br>
+<strong>Security Monitoring Lab (SIEM + Network Analysis) - In Progress </strong><br>
 Developing SOC-style monitoring workflows using SIEM, network analysis, and intrusion detection tools.<br><br>
 
 <strong>Focus:</strong>
