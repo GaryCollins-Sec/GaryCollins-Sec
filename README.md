@@ -70,7 +70,7 @@ Built a fully segmented enterprise-style virtual network environment simulating 
 <li>Validated security controls through exploitation testing</li>
 </ul>
 
-<a href="https://github.com/YOUR-REPO-LINK-HERE">View Project</a>
+<a href="https://github.com/GaryCollinsAI-Sec/Virtual-Network-Security-Lab">View Project</a>
 </li>
 
 <br>
