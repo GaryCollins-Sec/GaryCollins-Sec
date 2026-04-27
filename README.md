@@ -37,7 +37,7 @@ TCP/IP • DNS • DHCP • VPNs • VLANs • Routing • Network Troubleshooti
 
 <p>
 <strong>Security Tools</strong><br>
-Splunk (SIEM) • Suricata • Nessus Essentials • AWS Console • Kali Linux • VirtualBox • pfSense, Wazuh, Splunk
+Splunk (SIEM) • Suricata • Nessus Essentials • AWS Console • Kali Linux • VirtualBox • pfSense • Wazuh • Splunk
 </p>
 
 <p>
