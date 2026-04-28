@@ -1,7 +1,7 @@
 <h1>Gary Collins</h1>
 
 <p>
-<strong>Cybersecurity & IT Infrastructure Engineer | Network Security | Systems Administration | Incident Response</strong>
+<strong>Cybersecurity Engineer | Network Security | Systems Administration | Incident Response</strong>
 </p>
 
 <p>
