@@ -46,8 +46,8 @@ Windows 10/11 • Linux (Ubuntu) • IT Support Fundamentals • System Troubles
 </p>
 
 <p>
-<strong>Scripting</strong><br>
-PowerShell • Python • Bash • SQL
+<strong>Scripting & Programming</strong><br>
+PowerShell • Python • Bash • Golang • Java • Javascript • C++ • SQL
 </p>
 
 <hr>
