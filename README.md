@@ -105,7 +105,7 @@ Performed full exploitation lifecycle in a segmented lab environment using Kali 
 <li>Verified remediation via exploit failure testing</li>
 </ul>
 
-<a href="https://github.com/GaryCollinsAI-Sec/Security-Assessment-Legacy-System-Exploitation-Remediation">View Project</a>
+<a href="https://github.com/GaryCollinsAI-Sec/Penetration-Testing-Lab">View Project</a>
 </li>
 
 <br>
