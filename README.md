@@ -3,7 +3,7 @@
 
   <p>
     <strong>
-      Software Developer | Cybersecurity Analyst | IT Specialist | Mobile Application Developer
+      Software Engineer | Cybersecurity Engineer | Mobile Application Developer
     </strong>
   </p>
 
