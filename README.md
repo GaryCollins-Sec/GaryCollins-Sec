@@ -3,7 +3,7 @@
 
   <p>
     <strong>
-      Software Engineer | Cybersecurity Engineer | Mobile Application Developer
+      Software Engineer | Cybersecurity Engineer | IT Professional
     </strong>
   </p>
 
