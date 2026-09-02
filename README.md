@@ -97,19 +97,6 @@ Focused on designing and developing secure, scalable software systems with a str
 
 ---
 
-- **Pong Game (Godot Engine)** Classic Pong game developed using the Godot Engine to demonstrate core game development principles, physics-based interactions, and real-time gameplay systems.
-
-  - Implemented real-time game loop and physics-based collision detection  
-  - Designed responsive paddle controls using input mapping  
-  - Developed scoring system and win condition logic  
-  - Structured game using Godot scene and node architecture  
-  - Applied scripting logic using GDScript for gameplay mechanics  
-  - Focused on smooth frame-rate performance and responsive gameplay  
-
-  <a href="https://github.com/GaryCollinsAI-Sec/Pong-Game">View Project Repository</a>
-
----
-
 ## 🛡️ Cybersecurity & IT Projects
 
 - **Automated Incident Response Triage Tool (Ubuntu & Bash)**  
