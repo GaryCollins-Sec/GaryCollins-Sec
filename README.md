@@ -27,7 +27,7 @@
 
 Computer Science graduate and Cyber Engineering graduate student with experience across software development, mobile application development, cybersecurity operations, IT support, and troubleshooting.
 
-Skilled in building applications, designing mobile solutions, troubleshooting technical issues, automating workflows, and analyzing security events in SOC environments. Experienced with Java, Python, Kotlin, JavaScript, TypeScript, React, Linux administration, networking, SIEM platforms, and vulnerability management tools including Wazuh, Splunk, and Nessus.
+Skilled in building applications, designing mobile solutions, troubleshooting technical issues, automating workflows, and analyzing security events in SOC environments. Experienced with Java, Python, Kotlin, JavaScript, TypeScript, React, React-Native, Linux administration, networking, SIEM platforms, and vulnerability management tools including Wazuh, Splunk, and Nessus.
 
 Focused on designing and developing secure, scalable software systems with a strong security-first mindset applied to architecture, implementation, and operational resilience.
 
