@@ -405,7 +405,7 @@
 </ul>
 
 <p>
-  <a href="https://github.com/GaryCollinsAI-Sec/Cross-Platform-Security-Monitoring-Visibility-Lab">
+  <a href="https://github.com/GaryCollinsAI-Sec/Enterprise-Network-and-Security-Lab">
     <img src="https://img.shields.io/badge/View%20Project-GitHub-181717?style=flat-square&logo=github&logoColor=white" />
   </a>
 </p>
