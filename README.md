@@ -499,8 +499,9 @@
 
 <blockquote>
   <strong>⚠️ Authorized Laboratory Use:</strong>
-  All offensive-security activities are performed only in controlled,
-  authorized laboratory environments.
+  All offensive-security projects are conducted exclusively in controlled,
+  authorized laboratory environments using isolated networks and intentionally
+  vulnerable virtual machines designed for security testing and education.
 </blockquote>
 
 <p>
