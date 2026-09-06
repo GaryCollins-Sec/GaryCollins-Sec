@@ -289,6 +289,13 @@
 
 <hr>
 
+<h3>Silver Dragons landing page - in progress</h3>
+
+<p>Developed a web application in react, typescript, and tailwind to style the components of the content. Implemented a functional and mobile friendly web application that encompasses a navbar with hamburger, menu, that contains a home, about, program, and contact page. Built an AI assistant chat bot to help customers with 24/7 customer service capability while utilizing best security practices for protecting the application.</p>
+
+<hr>
+
+
 <h2>🔐 Secure Software Development</h2>
 
 <p>
